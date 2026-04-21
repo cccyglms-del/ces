@@ -1,0 +1,7 @@
+﻿time_months,survival_treatment_a,survival_treatment_b,risk_treatment_a,risk_treatment_b
+0,1.0,1.0,120,120
+6,0.95,0.88,114,106
+12,0.89,0.76,104,91
+18,0.82,0.63,92,73
+24,0.76,0.5,78,56
+30,0.7,0.38,65,41
